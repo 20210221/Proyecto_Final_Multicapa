@@ -230,7 +230,7 @@ WHERE CodeLugar = @CodeLugar
 
 GO
 
-select * from Usuario_Admid;
+
 
 
 
